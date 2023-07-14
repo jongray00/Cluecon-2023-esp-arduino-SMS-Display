@@ -58,8 +58,14 @@ This project allows you to receive SMS messages and display them on an I2C LCD d
 ## Testing
 
 1. Power on the ESP32 board.
+
 2. Verify that the I2C LCD display shows "SMS Display" initially.
 3. Send an SMS message to the phone number associated with your SignalWire account.
 4. The received message should appear on the I2C LCD display and in the Arduino IDE's serial monitor.
 
+
 Congratulations! You have successfully set up the SMS display project using an ESP32, I2C LCD display, Python server, and SignalWire.
+
+![IMG_2616](https://github.com/jongray00/Cluecon-2023-esp-arduino-SMS-Display/assets/78746011/3b0fd473-38a8-4c89-a699-c3594ed6e3ad)
+<img width="324" alt="Screen Shot 2023-07-13 at 5 13 54 PM" src="https://github.com/jongray00/Cluecon-2023-esp-arduino-SMS-Display/assets/78746011/0831ddbc-50b4-4863-a96d-88d3e2f213ac">
+
